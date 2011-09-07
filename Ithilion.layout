@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="include/gui/Observer.h" open="1" top="0" tabpos="5">
+		<Cursor position="113" topLine="0" />
+	</File>
+	<File name="include/gui/Widget.h" open="1" top="0" tabpos="3">
+		<Cursor position="2185" topLine="53" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="2182" topLine="0" />
+	</File>
+	<File name="src/gui/Observer.cpp" open="1" top="1" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/gui/Widget.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1745" topLine="32" />
+	</File>
+</CodeBlocks_layout_file>

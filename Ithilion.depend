@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1315402417 source:/home/david/Development/Ithilion/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"gui/Widget.h"
+	"Character.h"
+
+1315401848 /home/david/Development/Ithilion/include/gui/Widget.h
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<list>
+	<sstream>
+
+1315402247 source:/home/david/Development/Ithilion/src/gui/Widget.cpp
+	"gui/Widget.h"
+	<iostream>
+
+1315402113 /home/david/Development/Ithilion/include/Character.h
+	<algorithm>
+	<deque>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<cmath>
+
